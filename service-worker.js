@@ -3,5 +3,5 @@ self.addEventListener("install", (event) => {
 });
 
 self.addEventListener("fetch", (event) => {
-  // Optional: Cache logic can go here
+  // Optional: Cache logic
 });

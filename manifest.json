@@ -1,6 +1,6 @@
 {
-  "name": "My App",
-  "short_name": "App",
+  "name": "My PWA App",
+  "short_name": "PWA",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
